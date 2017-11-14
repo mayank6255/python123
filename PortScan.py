@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # encoding: utf-8
-# author: Lock
-# time: 2016/11/6 15:01
+
 import optparse
 import socket
 import threading
@@ -27,12 +26,7 @@ def connScan(tgtHost,tgtPort):
 
 
 def portScan(tgtHost, tgtPorts):
-    """
-    多线程 模式
-    :param tgtHost:
-    :param tgtPorts:
-    :return:
-    """
+
     try:
         tgtIP = socket.gethostbyname(tgtHost)
     except:
