@@ -1,0 +1,3 @@
+# python
+hello guys here i am with working hacking programs of python and c
+this is totally for eductaional purpose...
