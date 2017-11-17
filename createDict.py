@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Author: lock
-# @Date:   2016-11-02 18:52:07
-# @Last Modified by:   lock
-# @Last Modified time: 2016-11-02 18:55:30
+
 from random import Random
 def random_str(randomlength=8):
     str = ''
