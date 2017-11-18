@@ -1,6 +1,5 @@
 #!/usr/bin/python
-# Win32 DLL injector from Grey Hat Python
-# Minor formatting cleanups done...
+
 import sys
 from ctypes import *
 
