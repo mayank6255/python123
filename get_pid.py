@@ -5,7 +5,6 @@ import sys
 WMI = GetObject('winmgmts:')
 
 print("Tool for finding the PID of a process")
-print("Insecurety Research (2013)")
 
 if len(sys.argv) != 2:
     print("Usage: %s processname" %(sys.argv[0]))
