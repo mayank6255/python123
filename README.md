@@ -1,5 +1,5 @@
 # python
-hello guys here i am with some cool programs of python and c
+hello guys here i am with some cool programs of python....
 this is totally for eductaional purpose...
 usage: open terminal
 **************************************************************************
