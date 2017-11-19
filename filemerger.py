@@ -7,7 +7,7 @@ Created on Fri Nov 17 14:49:37 2017
 """
 
 import sys
-# Read in the DLL
+
 fd = open( sys.argv[1], "rb" )
 file_contents = fd.read()
 fd.close()
